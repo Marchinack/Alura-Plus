@@ -1,4 +1,7 @@
-html {
-  height: 100%;
-  width: 100%;
+:root {
+  --branco-principal: #FFFFFF;
+  --cinza-secundário: #C0C0C0;
+  --botão-azul: #167BF7;
+  --cor-de-fundo: #00030C;
+  
 }
