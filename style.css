@@ -14,11 +14,12 @@ body {
 * {
   margin: 0;
   padding: 0;
-  .principal {
-    background-image: url(../img/Background.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-  }
+}
+
+.principal {
+  background-image: url(../img/Background.png);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .container {
@@ -46,6 +47,6 @@ body {
 
 .botão_secundário {
   background-color: transparent;
-  border: ;
+  border: 2px solid var(--branco-principal);
 }
 
