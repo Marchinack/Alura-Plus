@@ -24,4 +24,28 @@ body {
 .container {
   height: 100vh;
 }
+
+.container__titulo {
+  font-size: 28px;
+  
 }
+
+.container__aviso {
+  font-size: 12px;
+  color: var(--cinza-secundário);
+}
+
+.container__botão {
+  background-color: var(--botão-azul);
+  color: var(--branco-principal);
+  text-decoration: none;
+  display: block;
+  padding: 1em;
+  border-radius: 10px;
+}
+
+.botão_secundário {
+  background-color: transparent;
+  border: ;
+}
+
